@@ -1,0 +1,66 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 23, 2017, 10:58:16 AM
+    Author     : kb
+*/
+
+body {
+    background: url(http://i.dailymail.co.uk/i/pix/2012/08/14/article-0-148A2387000005DC-695_964x641.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.headerfontsize{
+  font-size: 20px;
+}
+
+.header{
+  font-family :"Helvetica";
+  background-color: #f99907;
+}
+
+.img-class{
+  margin-left: 240px;
+}
+.div-background{
+ background: url(http://i.dailymail.co.uk/i/pix/2012/08/14/article-0-148A2387000005DC-695_964x641.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.header-text{
+  font-family: Verdana;
+  color: black;
+}
+
+.header2{
+  margin-bottom: 50px;
+}
+
+.paragraph{
+  background-color: #f99907;
+  color: black;
+}
+img-format2{
+  margin-top:-10px;
+  margin-bottom: 29px;
+  padding-bottom: 20px;
+  list-style-type: none;
+
+  float:centre;
+}
+
+
+.img-format{
+  margin-top:-10px;
+  float:centre;
+}
